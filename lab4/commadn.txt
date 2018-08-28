@@ -1,0 +1,1 @@
+./ds4rd.exe -d 054c:05c4 -D DS4_BT -t -b -j | ./lab1 wl.txt
